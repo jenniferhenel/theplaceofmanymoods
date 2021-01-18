@@ -1,0 +1,749 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://5af76287-fe57-463f-b730-a61b27240bf7",
+	"@type": "sc:Manifest",
+	"label": "Supplementary Images for <i>The Place of Many Moods</i>",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Supplementary and comparative images from and for the publication <i>The Place of Many Moods</i>, written by Dipti Khera, Princeton University Press, 2020.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"sequences": [
+		{
+			"@id": "http://797a48b9-d68f-437f-9bb6-531cadb4b8c6",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://083bbf02-f7a8-4045-9931-09c50887c783",
+					"@type": "sc:Canvas",
+					"label": "View of the City Palace complex, overlooking Lake Pichola and the Jagniwas lake palace (today the Taj Lake-Palace Hotel), Udaipur, nestled in the Aravalli valley and established as the premodern Mewar court’s capital in c. 1559. Photograph by Emma Natalya Stein. (Khera, The Place of Many Moods, Fig. I.6)",
+					"height": 2498,
+					"width": 3747,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://61c548fe-02ec-40b8-955c-a0b499ea543b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/ab9102bafe224409b96c810a39c0b6ff4ffe1c65a2f39d17a937de730eb8eff7/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/ab9102bafe224409b96c810a39c0b6ff4ffe1c65a2f39d17a937de730eb8eff7",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2498,
+								"width": 3747
+							},
+							"on": "http://083bbf02-f7a8-4045-9931-09c50887c783"
+						}
+					],
+					"related": "http://theplaceofmanymoods.org/"
+				},
+				{
+					"@id": "http://05cd4005-b99a-4fb4-96e3-33fdfdbeaa39",
+					"@type": "sc:Canvas",
+					"label": "Lake view of the City Palace complex, overlooking Lake Pichola, Udaipur, nestled in the Aravalli valley and established as the premodern Mewar court’s capital in c. 1559. Media Office, Eternal Mewar, Udaipur. (Khera, The Place of Many Moods, Fig. I.7)",
+					"height": 3057,
+					"width": 5760,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d3c2a56a-8fb8-485c-860b-7d505680b708",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/dfdf20e8a26d655f888e80496943e0246e2996e4e2e687f00622a1fca96b6e75/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/dfdf20e8a26d655f888e80496943e0246e2996e4e2e687f00622a1fca96b6e75",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3057,
+								"width": 5760
+							},
+							"on": "http://05cd4005-b99a-4fb4-96e3-33fdfdbeaa39"
+						}
+					],
+					"related": "http://theplaceofmanymoods.org/"
+				},
+				{
+					"@id": "http://7e21a36e-85e2-4375-89b7-5d0efd6127dc",
+					"@type": "sc:Canvas",
+					"label": "Maharana Sangram Singh II at the Gangaur Boat Procession, c. 1715–20, Udaipur. Gouache and gold on paper, 78.7 x 78.74 cm. The City Palace Museum, Udaipur; 2012.19.0014_R. Photography courtesy of the Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution. Photographer: Neil Greentree. © Maharana of Mewar Charitable Foundation, The City Palace Museum, Udaipur. (Khera, The Place of Many Moods, Fig. I.4)",
+					"height": 8497,
+					"width": 8468,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://be23c77c-e56d-4d54-b320-015ea21aa846",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/7d6b89ea5c5203aa489fc529e0d7da613f8884cc46034db28238103e675ffc9b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/7d6b89ea5c5203aa489fc529e0d7da613f8884cc46034db28238103e675ffc9b",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 8497,
+								"width": 8468
+							},
+							"on": "http://7e21a36e-85e2-4375-89b7-5d0efd6127dc"
+						}
+					],
+					"related": [
+						"https://citypalacemuseum.org/collections#lg=1&slide=0",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://c65febb2-c475-4cd8-a302-d541676b97d0",
+					"@type": "sc:Canvas",
+					"label": "The Mood of Kota Palace, c. 1700, Udaipur. Opaque watercolor and gold on paper, 50.5 × 45.4 cm. National Gallery of Victoria, Melbourne; Felton Bequest, 1980, AS68–1980.\n(Khera, The Place of Many Moods, Fig. 1.19)",
+					"height": 4000,
+					"width": 3605,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://77c8de8f-7ddf-4877-94cb-ffb836d636d5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/ae49e1fe75974f531d715007f690c97f33979b158388cc6a239a9ffb6d0953d9/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/ae49e1fe75974f531d715007f690c97f33979b158388cc6a239a9ffb6d0953d9",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 3605
+							},
+							"on": "http://c65febb2-c475-4cd8-a302-d541676b97d0"
+						}
+					],
+					"related": [
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						},
+						{
+							"@id": "https://www.ngv.vic.gov.au/explore/collection/work/53427/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://907dfac6-5415-46cc-921c-fbc2eb81afaa",
+					"@type": "sc:Canvas",
+					"label": "Maharana Amar Singh II in Udaipur during a Monsoon Downpour, c. 1705, Udaipur. Opaque watercolor and gold on cloth, 109.2 × 175.2 cm. Freer Gallery of Art, Smithsonian Institution, Washington, DC; purchase and partial gift made in 2012 from the Catherine and Ralph Benkaim Collection, Charles Lang Freer Endowment, F2012.4.2. (Khera, The Place of Many Moods, Fig.2.1)",
+					"height": 2801,
+					"width": 4500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://01c9404a-4944-4a3a-ab47-7faafe466554",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/9dc0265982c2670b0dae46f4716edf8183af82a92f53b7cbbf4d17e983598688/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/9dc0265982c2670b0dae46f4716edf8183af82a92f53b7cbbf4d17e983598688",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2801,
+								"width": 4500
+							},
+							"on": "http://907dfac6-5415-46cc-921c-fbc2eb81afaa"
+						}
+					],
+					"related": [
+						"https://asia.si.edu/object/F2012.4.2/",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://2d8bddf6-bfb0-406c-9f15-5731adab06a3",
+					"@type": "sc:Canvas",
+					"label": "View of the eastern facade of the City Palace, including the Baadi Mahal (1699), overlooking the Manek Chowk, Udaipur. Media Office, Eternal Mewar, Udaipur. (Khera, The Place of Many Moods, Fig. 2.21)",
+					"height": 1793,
+					"width": 5906,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://580f6362-6b03-4129-b71b-7790da6d3e1a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/bd50321b4d91c6632224c90e3ff694f737a3e3f472050462721b52725334d9c2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/bd50321b4d91c6632224c90e3ff694f737a3e3f472050462721b52725334d9c2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1793,
+								"width": 5906
+							},
+							"on": "http://2d8bddf6-bfb0-406c-9f15-5731adab06a3"
+						}
+					],
+					"related": "http://theplaceofmanymoods.org/"
+				},
+				{
+					"@id": "http://b33234ba-2a5f-4bea-9c1a-809d8f139104",
+					"@type": "sc:Canvas",
+					"label": "Prince Amar Singh Walking in the Rain, attributed to the Stipple Master, c. 1690, Rajnagar, Mewar. Opaque watercolor on paper, 34.4 × 21.3 cm. Freer Gallery of Art, Smithsonian Institution, Washington, DC; purchase and partial gift made in 2012 from the Catherine and Ralph Benkaim Collection, Charles Lang Freer Endowment, F2012.4.3. (Khera, The Place of Many Moods, Fig. 2.7)",
+					"height": 9571,
+					"width": 6417,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://eb8d108a-8137-4589-bd05-589cd81a7768",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/74467477bb09915f01222e225447b1a825f22ac26c183f2bb5aab0dd5a851da8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/74467477bb09915f01222e225447b1a825f22ac26c183f2bb5aab0dd5a851da8",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 9571,
+								"width": 6417
+							},
+							"on": "http://b33234ba-2a5f-4bea-9c1a-809d8f139104"
+						}
+					],
+					"related": [
+						"https://asia.si.edu/object/F2012.4.3/",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://73fb8906-1d69-41b9-bb2a-92b1fbb9eb7e",
+					"@type": "sc:Canvas",
+					"label": "Maharana Sangram Singh Enjoys the Monsoon, c. 1720–25, Udaipur. Opaque watercolor on paper, 35.5 × 23.3 cm. Museum of Fine Arts, Boston; gift of John Goelet, 66.122. (Khera, The Place of Many Moods, Fig. 2.26)",
+					"height": 4149,
+					"width": 2770,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e9ef5450-e79a-4272-9d62-358aeffe37d1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/61ae175a1a77439cf34970485de120e6b283608911390daea47539692de84e18/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/61ae175a1a77439cf34970485de120e6b283608911390daea47539692de84e18",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4149,
+								"width": 2770
+							},
+							"on": "http://73fb8906-1d69-41b9-bb2a-92b1fbb9eb7e"
+						}
+					],
+					"related": [
+						"https://collections.mfa.org/objects/149677/maharana-sangram-singh-enjoys-the-monsoon?ctx=f40daba8-7149-4ba2-bfb9-165deded8ff0&idx=1",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://e4391786-497d-4122-a158-1f9c2be02aee",
+					"@type": "sc:Canvas",
+					"label": "Maharana Jagat Singh II Bathing with His Nobles at Jagniwas, attributed to Jairam, c. 1746–50. Udaipur. Gouache on paper, 46.9 × 81.3 cm. San Diego Museum of Art; Edwin Binney 3rd Collection, 1990:624. (Khera, The Place of Many Moods, Fig. 3.10)",
+					"height": 3448,
+					"width": 5848,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://317257ec-d69a-4379-b1ee-78cede337f27",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/7c57de7b9ce04d5a2e4e2c65910b921c04e09e9104bd78e0b60d81aa34d85dd8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/7c57de7b9ce04d5a2e4e2c65910b921c04e09e9104bd78e0b60d81aa34d85dd8",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3448,
+								"width": 5848
+							},
+							"on": "http://e4391786-497d-4122-a158-1f9c2be02aee"
+						}
+					],
+					"related": [
+						"http://collection.sdmart.org/Obj5718?sid=5985&x=17204",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://78ca0f42-e0b8-4403-adc5-9685d9d56d6e",
+					"@type": "sc:Canvas",
+					"label": "Maharana Sangram Singh II Attending the Feeding of Crocodiles at Jagmandir, attributed to Jairam, c. 1720. Udaipur. Opaque watercolor, gold, and silver on paper, 56.8 × 46.5 cm. National Gallery of Victoria, Melbourne; Felton Bequest, 1980, AS88–1980. (Khera, The Place of Many Moods, Fig. 3.11)",
+					"height": 4000,
+					"width": 3745,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e8ba434b-5d01-444d-96d0-6e51ab7554a3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/61af8a1a68302507254267902944da6e22321c7e14c89546ff366bb4a1879ccb/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/61af8a1a68302507254267902944da6e22321c7e14c89546ff366bb4a1879ccb",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4000,
+								"width": 3745
+							},
+							"on": "http://78ca0f42-e0b8-4403-adc5-9685d9d56d6e"
+						}
+					],
+					"related": [
+						"https://ifa.nyu.edu/people/faculty/khera.htm",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://24b2394e-c3af-4f24-aaad-125a53b662db",
+					"@type": "sc:Canvas",
+					"label": "Drawing of a column at Chittor, Ghasi, 1822. Pen and ink and wash, 44 × 23.2 cm. The Royal Asiatic Society, London; 037.121. (Khera, The Place of Many Moods, Fig. 4.17)",
+					"height": 6949,
+					"width": 4912,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b5253ee2-924c-43cd-8713-8aeab1a68f45",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/6451775451ddb141c2780c107fe4f234fbaeb5bb981474845b6f2af7e6e2c8a7/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/6451775451ddb141c2780c107fe4f234fbaeb5bb981474845b6f2af7e6e2c8a7",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6949,
+								"width": 4912
+							},
+							"on": "http://24b2394e-c3af-4f24-aaad-125a53b662db"
+						}
+					],
+					"related": "http://theplaceofmanymoods.org/"
+				},
+				{
+					"@id": "http://93ec78fc-43bc-4faa-bce7-295d0d58a2a0",
+					"@type": "sc:Canvas",
+					"label": "Lord William Cavendish Bentinck, Governor-General of India, Receiving Maharana Jawan Singh of Udaipur at the Ajmer Durbar, Held on February 8, 1832, attributed to Ghasi, c. 1832, Udaipur. Opaque watercolor, gold and silver on cloth, 189 × 128 cm. Brooklyn Museum; gift of the Alvin E. Friedman-Kien Foundation, Inc., in honor of Dr. Bertram H. Schaffner’s 90th Birthday, 2002.34. (Khera, The Place of Many Moods, Fig. 4.23) ",
+					"height": 5511,
+					"width": 3814,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dff5fd8f-ccd0-427a-a0d0-8e607f429f2d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/ec47956fe880091b1d3b9a3d8f024fb8fb45ea0d1b12ab978294f53e0d92d488/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/ec47956fe880091b1d3b9a3d8f024fb8fb45ea0d1b12ab978294f53e0d92d488",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5511,
+								"width": 3814
+							},
+							"on": "http://93ec78fc-43bc-4faa-bce7-295d0d58a2a0"
+						}
+					],
+					"related": [
+						"https://www.brooklynmuseum.org/opencollection/objects/163797",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				},
+				{
+					"@id": "http://ea28746c-93e9-49ee-aab2-73d0224eeff0",
+					"@type": "sc:Canvas",
+					"label": "Jagmandir on Lake Pichola, c. 1740–43. The inscription notes that the picture depicts the island palace from the “other side.” Opaque watercolor and gold on paper, 43.8 × 48.6 cm. Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, MA; gift in gratitude to John Coolidge, gift of Leslie Cheek Jr., Anonymous Fund in memory of Henry Berg, Louise Haskell Daly, Alpheus Hyatt, Richard Norton Memorial Funds, and through the generosity of Albert H. Gordon and Emily Rauh Pulitzer; formerly in the collection of Stuart Cary Welch Jr. 1995.79 (Khera, The Place of Many Moods, Fig. C.2)",
+					"height": 1563,
+					"width": 1763,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2b56090e-c89a-42a5-a4c6-60c9365a7c71",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/7735421e9e8a0acda73f1038c78c32387bad7a364f7c615efe92f7297aae279/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/7735421e9e8a0acda73f1038c78c32387bad7a364f7c615efe92f7297aae279",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1563,
+								"width": 1763
+							},
+							"on": "http://ea28746c-93e9-49ee-aab2-73d0224eeff0"
+						}
+					],
+					"related": [
+						"https://www.harvardartmuseums.org/art/310688",
+						{
+							"@id": "http://theplaceofmanymoods.org/",
+							"label": "",
+							"format": ""
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": [],
+	"related": {
+		"@id": "http://theplaceofmanymoods.org/"
+	}
+}
